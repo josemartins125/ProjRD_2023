@@ -1,0 +1,9 @@
+Fonte do dataset: https://mcfp.felk.cvut.cz/publicDatasets/IoT-23-Dataset/iot_23_datasets_small.tar.gz
+
+Dataset 1 - CTU-IoT-Malware-Capture-1-1 e o CTU-IoT-Malware-Capture-9-1
+Dataset 2 - CTU-IoT-Malware-Capture-43-1
+
+Dataset 3 - CTU-IoT-Malware-Capture-1-1
+
+Dados brutos têm de ser corridos com o ficheiro iot23-preprocessing.ipynb
+São gerados 3 .csv que são usados para treinar os modelos.
